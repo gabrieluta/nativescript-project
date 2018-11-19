@@ -1,0 +1,28 @@
+{
+  "nativescript": {
+    "id": "org.nativescript.Subtitle",
+    "tns-android": {
+      "version": "5.0.0"
+    },
+    "tns-ios": {
+      "version": "5.0.0"
+    }
+  },
+  "description": "NativeScript Application",
+  "license": "SEE LICENSE IN <your-license-filename>",
+  "repository": "<fill-your-repository-here>",
+  "dependencies": {
+    "imagepicker-nativescript-plugin": "file:../imagepicker-nativescript-plugin",
+    "nativescript-imagepicker": "^6.0.4",
+    "nativescript-theme-core": "~1.0.4",
+    "tns-core-modules": "~5.0.2"
+  },
+  "devDependencies": {
+    "nativescript-dev-webpack": "~0.18.0",
+    "tns-platform-declarations": "^5.0.0",
+    "tns-core-modules": "^5.0.1"
+  },
+  "readme": "NativeScript Application",
+  "tslint": "~5.11.0",
+  "typescript": "~2.8.2"
+}

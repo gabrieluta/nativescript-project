@@ -1,0 +1,16 @@
+{
+  "name": "nativescript-plugin",
+  "version": "1.0.0",
+  "description": "A NativeScript module for Android and iOS",
+  "main": "index.js",
+  "nativescript": {
+    "platforms": {
+      "ios": "1.1.0",
+      "android": "1.1.0"
+    }
+  },
+  "keywords": [
+    "NativeScript"
+  ],
+  "author": "gabrieluta"
+}
