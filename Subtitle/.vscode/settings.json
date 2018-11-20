@@ -1,3 +1,4 @@
 {
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "nativescript.iosTeamId": "FFR7RSF3S4"
 }

@@ -12,7 +12,7 @@
   "license": "SEE LICENSE IN <your-license-filename>",
   "repository": "<fill-your-repository-here>",
   "dependencies": {
-    "imagepicker-nativescript-plugin": "file:../imagepicker-nativescript-plugin",
+    "imagepicker-nativescript-plugin": "1.0.0",
     "nativescript-imagepicker": "^6.0.4",
     "nativescript-theme-core": "~1.0.4",
     "tns-core-modules": "~5.0.2"

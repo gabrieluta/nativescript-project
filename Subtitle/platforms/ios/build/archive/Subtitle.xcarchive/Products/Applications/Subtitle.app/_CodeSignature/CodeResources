@@ -62,7 +62,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		TVjw2tjWHeoqvyjIwKxZ8L5PlMQ=
+		slVJEK9xvSCjy9ldvCA+z6XKnwY=
 		</data>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Frameworks/NativeScript.framework/NativeScript</key>
 		<data>
-		gtcpVnP0G1vExSqCGBqnVGdNy9o=
+		VvZJ0Syer78ANIy/oNYJuT/d7N8=
 		</data>
 		<key>Frameworks/NativeScript.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -90,23 +90,23 @@
 		</data>
 		<key>Frameworks/QBImagePickerController.framework/QBImagePicker.bundle/QBImagePicker.storyboardc/QBAlbumsNavigationController.nib</key>
 		<data>
-		ZzrvTkQpZ4F9+fzar3Q61Avebdc=
+		9lMOkcDDy0k9Zo+uGYHGZscs5hQ=
 		</data>
 		<key>Frameworks/QBImagePickerController.framework/QBImagePicker.bundle/QBImagePicker.storyboardc/QBAlbumsViewController.nib</key>
 		<data>
-		3h5M/3BahqH4OEDJ/FxWbV2grIk=
+		18O/FoYZVxJQ9ZQk24Q5nHQm5kc=
 		</data>
 		<key>Frameworks/QBImagePickerController.framework/QBImagePicker.bundle/QBImagePicker.storyboardc/QBAssetsViewController.nib</key>
 		<data>
-		C7EsKP83l6EPOP8ESl2iCfO2GSU=
+		nfkpmYHdOVOPHWI8K+MEyZBISbY=
 		</data>
 		<key>Frameworks/QBImagePickerController.framework/QBImagePicker.bundle/QBImagePicker.storyboardc/QL5-wR-LYt-view-66K-TS-Yoc.nib</key>
 		<data>
-		QVQp+Oix9MjnDyeL92xh6Ped3CQ=
+		RbB7zx02YsRC6/fu5RSU718JJ0o=
 		</data>
 		<key>Frameworks/QBImagePickerController.framework/QBImagePicker.bundle/QBImagePicker.storyboardc/QiH-NZ-ZGN-view-sD2-zK-ryo.nib</key>
 		<data>
-		3sw/dHERB7bjgT7mj7jOKh5Y9uk=
+		lsEghRoXTa1RB4CeYu1y+ZNeI1k=
 		</data>
 		<key>Frameworks/QBImagePickerController.framework/QBImagePicker.bundle/de.lproj/QBImagePicker.strings</key>
 		<dict>
@@ -155,11 +155,11 @@
 		</dict>
 		<key>Frameworks/QBImagePickerController.framework/QBImagePickerController</key>
 		<data>
-		U331TMJ13Pw8gmAn1278B/CVI9Y=
+		8cgfBHamYtlTrfAAuFMPmEVQpdg=
 		</data>
 		<key>Frameworks/QBImagePickerController.framework/_CodeSignature/CodeResources</key>
 		<data>
-		uuJVVYVUBxIjaYsgNr6VLMLtS1o=
+		+y/3dIy13UN4PiOmXj+Rit5Fv54=
 		</data>
 		<key>Frameworks/TNSWidgets.framework/Info.plist</key>
 		<data>
@@ -167,7 +167,7 @@
 		</data>
 		<key>Frameworks/TNSWidgets.framework/TNSWidgets</key>
 		<data>
-		7RXzGMuWKQWCSLrk3OMDPipSdmA=
+		AwpXBYO6K+NQOdE8DZ3BxaWGGIY=
 		</data>
 		<key>Frameworks/TNSWidgets.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -251,7 +251,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		rwT6WLfuUg1XIJq9J3KRatV0VzU=
+		PLLw6EipV9/DCrcr6S+/BGHFHt8=
 		</data>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -259,7 +259,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		6IBUuK7oBebDUzQLI+6SC0jvr0g=
+		otoJS4YzmxD80FV73igWldbjbNs=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -336,14 +336,6 @@
 		<key>app/tns_modules/nativescript-permissions/permissions.js</key>
 		<data>
 		jJ6pD624dsp+RevcpPa3Ar6JLHI=
-		</data>
-		<key>app/tns_modules/nativescript-plugin/index.js</key>
-		<data>
-		E7ZEcmOeqU+m3LDHJX3FZUXafF8=
-		</data>
-		<key>app/tns_modules/nativescript-plugin/package.json</key>
-		<data>
-		ocuFuPJuBQ5YcZgw3bU/V66TAiM=
 		</data>
 		<key>app/tns_modules/nativescript-theme-core/css/aqua.css</key>
 		<data>
@@ -1811,7 +1803,7 @@
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		5M4Errufb/g/eU2S5H3ZOkcJSLA=
+		/3mWi+AfHr+xrCJUSzgrYv4Hc6U=
 		</data>
 		<key>en.lproj/InfoPlist.strings</key>
 		<dict>
@@ -1983,11 +1975,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TVjw2tjWHeoqvyjIwKxZ8L5PlMQ=
+			slVJEK9xvSCjy9ldvCA+z6XKnwY=
 			</data>
 			<key>hash2</key>
 			<data>
-			OmTTD0L7trWSgyMRluCosVz4S4dbhhKZAOCuQTS77Nc=
+			D5ebNFJRL0qQVeXtVZUXj+fQHjP5JWffZKexvtKITOU=
 			</data>
 		</dict>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
@@ -2005,11 +1997,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gtcpVnP0G1vExSqCGBqnVGdNy9o=
+			VvZJ0Syer78ANIy/oNYJuT/d7N8=
 			</data>
 			<key>hash2</key>
 			<data>
-			4MYBNHGCaLpX5qorA4HvHHAGYCf4lgM7jHM5XQoR/No=
+			NbyS/mwIu9b/KRcC9iK3O0zqDPaRYy5i1Lqr/i0iIEU=
 			</data>
 		</dict>
 		<key>Frameworks/NativeScript.framework/_CodeSignature/CodeResources</key>
@@ -2060,55 +2052,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZzrvTkQpZ4F9+fzar3Q61Avebdc=
+			9lMOkcDDy0k9Zo+uGYHGZscs5hQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			YqhGE+1gsP2MQObU1u2ow8Lto43DPwYUtAroUDB5YOI=
+			NAUe3x0+ibouVNpS5ExqAtagDXixGIh5udJnLFkcrDQ=
 			</data>
 		</dict>
 		<key>Frameworks/QBImagePickerController.framework/QBImagePicker.bundle/QBImagePicker.storyboardc/QBAlbumsViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3h5M/3BahqH4OEDJ/FxWbV2grIk=
+			18O/FoYZVxJQ9ZQk24Q5nHQm5kc=
 			</data>
 			<key>hash2</key>
 			<data>
-			AaG5GaBI20yNwc4zMNv7A/Wwo6uERWK1pqy4bTmU9AI=
+			G0uh+2GFeZ63mTgCQLkQps8aYPsu3BWYzp0h1dug1gk=
 			</data>
 		</dict>
 		<key>Frameworks/QBImagePickerController.framework/QBImagePicker.bundle/QBImagePicker.storyboardc/QBAssetsViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			C7EsKP83l6EPOP8ESl2iCfO2GSU=
+			nfkpmYHdOVOPHWI8K+MEyZBISbY=
 			</data>
 			<key>hash2</key>
 			<data>
-			8O0socy1ha29Ydm5ozDrW3z+9ExoXZeclzip2Fa81wY=
+			LvjNpnf9tYVD06mcBDoszT8uiTjGSR5mAXVu4gn1KUw=
 			</data>
 		</dict>
 		<key>Frameworks/QBImagePickerController.framework/QBImagePicker.bundle/QBImagePicker.storyboardc/QL5-wR-LYt-view-66K-TS-Yoc.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QVQp+Oix9MjnDyeL92xh6Ped3CQ=
+			RbB7zx02YsRC6/fu5RSU718JJ0o=
 			</data>
 			<key>hash2</key>
 			<data>
-			NYHS36jMtdoZl7mhMyvFz2AIbIF+8SxFPCaMQG+DpKk=
+			sBjk2ZJNqTjAaZrIeIwhboesusb3H7OOXQ2W1JVvV14=
 			</data>
 		</dict>
 		<key>Frameworks/QBImagePickerController.framework/QBImagePicker.bundle/QBImagePicker.storyboardc/QiH-NZ-ZGN-view-sD2-zK-ryo.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3sw/dHERB7bjgT7mj7jOKh5Y9uk=
+			lsEghRoXTa1RB4CeYu1y+ZNeI1k=
 			</data>
 			<key>hash2</key>
 			<data>
-			WAc7B4dRPK7ATGX9rPFs/xaO68n9l58DxIdBOGqyvpY=
+			AsU/jm0vB5KvvIL3dFxr81BeV4HeMpiwVkPsqzgH6JI=
 			</data>
 		</dict>
 		<key>Frameworks/QBImagePickerController.framework/QBImagePicker.bundle/de.lproj/QBImagePicker.strings</key>
@@ -2180,22 +2172,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			U331TMJ13Pw8gmAn1278B/CVI9Y=
+			8cgfBHamYtlTrfAAuFMPmEVQpdg=
 			</data>
 			<key>hash2</key>
 			<data>
-			ybEQqa/iSCHExZuNRfbLTFNxZFimN3K3mzT1IWlGUrk=
+			cXsvrF/yC3jHGLmIKAyEV1JZNZdNCmqD4ZC+ADN6Nk8=
 			</data>
 		</dict>
 		<key>Frameworks/QBImagePickerController.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uuJVVYVUBxIjaYsgNr6VLMLtS1o=
+			+y/3dIy13UN4PiOmXj+Rit5Fv54=
 			</data>
 			<key>hash2</key>
 			<data>
-			4dd66kfx754RjjbZ3deTH4W160H+6o3a7OLHt6tij6Y=
+			0/5/pCsEsArl4b53J3yqcgot5kA7WDFQlKY81Rd6I6k=
 			</data>
 		</dict>
 		<key>Frameworks/TNSWidgets.framework/Info.plist</key>
@@ -2213,11 +2205,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7RXzGMuWKQWCSLrk3OMDPipSdmA=
+			AwpXBYO6K+NQOdE8DZ3BxaWGGIY=
 			</data>
 			<key>hash2</key>
 			<data>
-			vadxbXyF0IYcHMLbU4DPRfaDvliTEroz/P35gqkeuh8=
+			Q7kOabF6n6Y8KlYTeEB0aoDeoXsshOIv499bfuUuSh8=
 			</data>
 		</dict>
 		<key>Frameworks/TNSWidgets.framework/_CodeSignature/CodeResources</key>
@@ -2433,11 +2425,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rwT6WLfuUg1XIJq9J3KRatV0VzU=
+			PLLw6EipV9/DCrcr6S+/BGHFHt8=
 			</data>
 			<key>hash2</key>
 			<data>
-			Yb0/ajqkMOGrtgWPnNsATYt/w3dkVaPYclJnHj3tGaI=
+			CeBP/zTamV5s1POX1MSWQQyvYUAECxqmxDAq4Borb2w=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
@@ -2455,11 +2447,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6IBUuK7oBebDUzQLI+6SC0jvr0g=
+			otoJS4YzmxD80FV73igWldbjbNs=
 			</data>
 			<key>hash2</key>
 			<data>
-			7bv2yrfzEkntjVfXvrCtyUgMN1D/w+71eGZb31SiyMU=
+			Fpd9PP4iLzLmjQNEwQEASJelXWkhZdx36OINEkn1lMw=
 			</data>
 		</dict>
 		<key>app/app-root.xml</key>
@@ -2658,28 +2650,6 @@
 			<key>hash2</key>
 			<data>
 			91hyhH2G5KOTZmtW12abkLLuIRhAUp0nV3AVqvA6M60=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-plugin/index.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			E7ZEcmOeqU+m3LDHJX3FZUXafF8=
-			</data>
-			<key>hash2</key>
-			<data>
-			W/2IvuEF9D09+yGlRDK9p8Hd9f+Fm7RdOlw+D4GE/Nc=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-plugin/package.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ocuFuPJuBQ5YcZgw3bU/V66TAiM=
-			</data>
-			<key>hash2</key>
-			<data>
-			nF8bfpbwOK3f2zEjulhlssc4c33KmJc/vwWpuOZyt0w=
 			</data>
 		</dict>
 		<key>app/tns_modules/nativescript-theme-core/css/aqua.css</key>
@@ -6712,11 +6682,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5M4Errufb/g/eU2S5H3ZOkcJSLA=
+			/3mWi+AfHr+xrCJUSzgrYv4Hc6U=
 			</data>
 			<key>hash2</key>
 			<data>
-			zKaINIK07NhHyyBuDYXvV15WvcGbymJHrobwD8JSc20=
+			puoYAVdl1hvip9PjntdvVkZbLUTpCO8r8REzK4Rv81E=
 			</data>
 		</dict>
 		<key>en.lproj/InfoPlist.strings</key>

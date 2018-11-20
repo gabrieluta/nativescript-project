@@ -1,1 +1,0 @@
-/Users/gabrielad/Library/Developer/Xcode/DerivedData/Subtitle-fsozudvfyougfwhjczysvfauahek/Build/Intermediates.noindex/ArchiveIntermediates/Subtitle/InstallationBuildProductsLocation/Applications/Subtitle.app

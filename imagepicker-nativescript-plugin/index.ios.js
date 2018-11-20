@@ -1,8 +1,5 @@
-import * as data_observable from "tns-core-modules/data/observable";
-import * as frame from "tns-core-modules/ui/frame";
-import * as imageAssetModule from "tns-core-modules/image-asset";
-import  Options from ".";
-import  View from "tns-core-modules/ui/core/view/view";
+var data_observable = require('tns-core-modules/data/observable');
+var imageAssetModule = require('tns-core-modules/image-asset');
 
 const defaultAssetCollectionSubtypes = [
   PHAssetCollectionSubtype.SmartAlbumRecentlyAdded,
@@ -17,7 +14,7 @@ const defaultAssetCollectionSubtypes = [
   PHAssetCollectionSubtype.SmartAlbumLivePhotos
 ];
 
-export class ImagePickerControllerDelegate extends NSObject {
+class ImagePickerControllerDelegate extends NSObject {
 
   qb_imagePickerControllerDidCancel(imagePickerController) {
       imagePickerController.dismissViewControllerAnimatedCompletion(true, null);
@@ -48,7 +45,7 @@ export class ImagePickerControllerDelegate extends NSObject {
 }
 
 
-export class ImagePicker extends data_observable.Observable {
+class ImagePicker extends data_observable.Observable {
 
   get hostView() {
       return this._hostView;
@@ -86,7 +83,6 @@ export class ImagePicker extends data_observable.Observable {
 
     return new Promise(function(resolve, reject) {
 
-        let runloop = CFRunLoopGetCurrent();
         PHPhotoLibrary.requestAuthorization(function (result) {
             if (result === PHAuthorizationStatus.Authorized) {
                 resolve();
@@ -108,6 +104,12 @@ export class ImagePicker extends data_observable.Observable {
 
 }
 
-export function create(options, hostView) {
+function create(options, hostView) {
   return new ImagePicker(options, hostView);
 }
+
+module.exports = { 
+    ImagePickerControllerDelegate: "ImagePickerControllerDelegate",
+    ImagePicker: "ImagePicker",
+    create: "create"
+ };
