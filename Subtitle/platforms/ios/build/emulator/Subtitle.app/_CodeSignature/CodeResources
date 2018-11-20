@@ -62,7 +62,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		AM7hYqS2X7DAFToyDxNmxCvpZG4=
+		jBYJ4g8STDtB0aJDNrzdpGFEqK0=
 		</data>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
 		<data>
@@ -251,7 +251,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		acYLo5B4ImV5Ru9dH4rLHZTTyJw=
+		p37b3YpUgL1bJu5M4Y8v8eGA9PE=
 		</data>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -259,7 +259,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		/Qc8RLoiR69ctnuQkzRdwVjXyn0=
+		uIu2iRKRlI8fz2QWApCDsGc0qus=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -287,7 +287,7 @@
 		</data>
 		<key>app/main-view-model.js</key>
 		<data>
-		LBy4FnCQhDtj3lYJygzcUKB7nH8=
+		c+OMdCkd+KWrEvtibYlitTBPff0=
 		</data>
 		<key>app/package.json</key>
 		<data>
@@ -299,7 +299,7 @@
 		</data>
 		<key>app/tns_modules/imagepicker-nativescript-plugin/index.js</key>
 		<data>
-		eS2rLn3VoFtqqLFbkNFQMIzRQKw=
+		xuY6FfIDqZ5VDEDrUryJhxxGI5A=
 		</data>
 		<key>app/tns_modules/imagepicker-nativescript-plugin/package.json</key>
 		<data>
@@ -1799,7 +1799,7 @@
 		</data>
 		<key>build.xcconfig</key>
 		<data>
-		RNL/GAS4TOxSHBwCBUOpAd1PTlk=
+		nXiiHmbfryvsGlB8LP5YSRnfX1w=
 		</data>
 		<key>en.lproj/InfoPlist.strings</key>
 		<dict>
@@ -1971,11 +1971,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AM7hYqS2X7DAFToyDxNmxCvpZG4=
+			jBYJ4g8STDtB0aJDNrzdpGFEqK0=
 			</data>
 			<key>hash2</key>
 			<data>
-			bPjx70tR6njc35x8LAELtavfIKAEFK9mvJrifI5KIwg=
+			u6UHhdWB/6jrdNDupaSew/I0rKLf+eju7utPmBOqHoE=
 			</data>
 		</dict>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
@@ -2421,11 +2421,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			acYLo5B4ImV5Ru9dH4rLHZTTyJw=
+			p37b3YpUgL1bJu5M4Y8v8eGA9PE=
 			</data>
 			<key>hash2</key>
 			<data>
-			M50xrVb0OVVbb+rwUYX83+WUiK0N1lkzTXSWzh0zhcs=
+			cPC5TcUnAMvlmKNYsiPfCHWp/oQmsUKi6AVm3OuY158=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
@@ -2443,11 +2443,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/Qc8RLoiR69ctnuQkzRdwVjXyn0=
+			uIu2iRKRlI8fz2QWApCDsGc0qus=
 			</data>
 			<key>hash2</key>
 			<data>
-			lnw1O1e1HzMHXAu+/z7ZwE9FtlF6kXBX4xGHE8buA/c=
+			d6zaMsilF+kVX3YPM9IMqSYAuXxV6Kgg0zdwdB0jFxQ=
 			</data>
 		</dict>
 		<key>app/app-root.xml</key>
@@ -2509,11 +2509,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LBy4FnCQhDtj3lYJygzcUKB7nH8=
+			c+OMdCkd+KWrEvtibYlitTBPff0=
 			</data>
 			<key>hash2</key>
 			<data>
-			nr/yhbuJwhGAfjdrZtIOKp1mLVoRj6yoWmoUK3HthVg=
+			t1Ffzpxh7I72ZHO6tNSz3W4gHqbO1Dm3AX7gHcnGILI=
 			</data>
 		</dict>
 		<key>app/package.json</key>
@@ -2542,11 +2542,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eS2rLn3VoFtqqLFbkNFQMIzRQKw=
+			xuY6FfIDqZ5VDEDrUryJhxxGI5A=
 			</data>
 			<key>hash2</key>
 			<data>
-			HeMO7jrNEvnt5dt0n4RvjsOeVmAChidz1tE6lG3CrME=
+			cxEUVCGJEMIc+CFVGIXxfK0O/jm0t9qmWsB0LoY2KM4=
 			</data>
 		</dict>
 		<key>app/tns_modules/imagepicker-nativescript-plugin/package.json</key>
@@ -6667,11 +6667,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RNL/GAS4TOxSHBwCBUOpAd1PTlk=
+			nXiiHmbfryvsGlB8LP5YSRnfX1w=
 			</data>
 			<key>hash2</key>
 			<data>
-			qkKr/0jAqSAoWJnaBowLV4nYITPOZtUND1jJ3PDedII=
+			E/T1aXzFD4h61ohV+N+6e91Sc5ITt3y4C5QV1Qdg1w8=
 			</data>
 		</dict>
 		<key>en.lproj/InfoPlist.strings</key>

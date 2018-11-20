@@ -13,8 +13,8 @@ const defaultAssetCollectionSubtypes = [
   PHAssetCollectionSubtype.SmartAlbumScreenshots,
   PHAssetCollectionSubtype.SmartAlbumLivePhotos
 ];
-
-export class ImagePickerControllerDelegate extends NSObject {
+    
+class ImagePickerControllerDelegate extends NSObject {
 
   qb_imagePickerControllerDidCancel(imagePickerController) {
       imagePickerController.dismissViewControllerAnimatedCompletion(true, null);
@@ -45,7 +45,7 @@ export class ImagePickerControllerDelegate extends NSObject {
 }
 
 
-export class ImagePicker extends data_observable.Observable {
+class ImagePicker extends data_observable.Observable {
 
   get hostView() {
       return this._hostView;
@@ -104,6 +104,8 @@ export class ImagePicker extends data_observable.Observable {
 
 }
 
-export function create(options, hostView) {
+function create(options, hostView) {
   return new ImagePicker(options, hostView);
 }
+
+module.exports = { ImagePicker, ImagePickerControllerDelegate, create };

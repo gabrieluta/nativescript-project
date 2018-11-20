@@ -13,35 +13,31 @@ const defaultAssetCollectionSubtypes = [
   PHAssetCollectionSubtype.SmartAlbumScreenshots,
   PHAssetCollectionSubtype.SmartAlbumLivePhotos
 ];
+    
+class ImagePickerControllerDelegate extends QBImagePickerControllerDelegate {
 
-class ImagePickerControllerDelegate extends NSObject {
+    qb_imagePickerControllerDidCancel(imagePickerController) {
+        imagePickerController.dismissViewControllerAnimatedCompletion(true, null);
+        this._reject(new Error("Selection canceled."));
+    }
 
-  qb_imagePickerControllerDidCancel(imagePickerController) {
-      imagePickerController.dismissViewControllerAnimatedCompletion(true, null);
-      this._reject(new Error("Selection canceled."));
-  }
+    qb_imagePickerControllerDidFinishPickingAssets(imagePickerController, iosAssets) {
+        let assets = [];
 
-  qb_imagePickerControllerDidFinishPickingAssets(imagePickerController, iosAssets) {
-      let assets = [];
+        for (let i = 0; i < iosAssets.count; i++) {
+            let asset = new imageAssetModule.ImageAsset(iosAssets[i]);
 
-      for (let i = 0; i < iosAssets.count; i++) {
-          let asset = new imageAssetModule.ImageAsset(iosAssets[i]);
+            if (!asset.options) {
+                asset.options = { keepAspectRatio: true };
+            }
 
-          if (!asset.options) {
-              asset.options = { keepAspectRatio: true };
-          }
+            assets.push(asset);
+        }
 
-          assets.push(asset);
-      }
+        this._resolve(assets);
 
-      this._resolve(assets);
-
-      imagePickerController.dismissViewControllerAnimatedCompletion(true, null);
-  }
-  
-  static new() {
-      return super.new();
-  }
+        imagePickerController.dismissViewControllerAnimatedCompletion(true, null);
+    }
 }
 
 
@@ -94,11 +90,12 @@ class ImagePicker extends data_observable.Observable {
   }
 
   present() {
+      let that = this;
     return new Promise(function(resolve, reject) {
-        this._imagePickerControllerDelegate._resolve = resolve;
-        this._imagePickerControllerDelegate._reject = reject;
+        that._imagePickerControllerDelegate._resolve = resolve;
+        that._imagePickerControllerDelegate._reject = reject;
 
-        this.hostController.presentViewControllerAnimatedCompletion(this._imagePickerController, true, null);
+        that.hostController.presentViewControllerAnimatedCompletion(that._imagePickerController, true, null);
     });
   }
 
@@ -108,8 +105,4 @@ function create(options, hostView) {
   return new ImagePicker(options, hostView);
 }
 
-module.exports = { 
-    ImagePickerControllerDelegate: "ImagePickerControllerDelegate",
-    ImagePicker: "ImagePicker",
-    create: "create"
- };
+module.exports = { ImagePicker, ImagePickerControllerDelegate, create };

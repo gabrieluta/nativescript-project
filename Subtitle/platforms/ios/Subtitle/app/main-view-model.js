@@ -12,16 +12,17 @@ function createViewModel() {
         .authorize()
         .then(function() {
             that.selectedImage = null;
-            return context.present();
-        })
-        .then(function(selection) {
-            console.log("Selection done: " + JSON.stringify(selection));  
-            that.selectedImage = selection[0];
 
+            function resolve(selection) {
+                console.log("Selection done: " + JSON.stringify(selection));  
+                that.selectedImage = selection[0];
+            }
+
+            function reject(error) {
+                console.log(error);
+            }
+            return context.present(resolve, reject);
         })
-        .catch(function (e) {
-            console.log(e);
-        });
 
         viewModel.pickedImage = this.selectedImage;
     }
